@@ -1,4 +1,3 @@
 # sweater
 
-Video 6. Lets Code SpringBoot Jpa Hibernate OneToMany
-
+Video 7. Lets Code SpringBoot Freemaker
